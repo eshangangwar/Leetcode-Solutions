@@ -8,13 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/eshangangwar/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3174-clear-digits](https://github.com/eshangangwar/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/eshangangwar/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3174-clear-digits](https://github.com/eshangangwar/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/eshangangwar/Leetcode-Solutions/tree/master/3174-clear-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/eshangangwar/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
